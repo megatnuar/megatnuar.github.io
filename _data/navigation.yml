@@ -4,25 +4,24 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "Resume"
-    url: /files/Resume Megat Nurul Anwar 2024.pdf
+main:  
+  - title: "Blog"
+    url: /year-archive/ 
 
-  - # title: "Publications"
+  - title: "Resume"
+    url: /files/Resume Megat Nurul Anwar 2024.pdf  
+
+  #- title: "Projects"
+  #  url: /portfolio   
+ 
+  #- # title: "Publications"
     # url: /publications/
 
-  - # title: "Talks"
+  #- # title: "Talks"
     # url: /talks/    
 
-  - # title: "Teaching"
+  #- # title: "Teaching"
     # url: /teaching/    
-    
-  - title: "Projects"
-    url: /portfolio/
-        
-  - title: "Blog"
-    url: /year-archive/
-    
-    
-  - # title: "Guide"
+  
+  #- # title: "Guide"
     # url: /markdown/
