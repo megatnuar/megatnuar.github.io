@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I've been interested in computers and coding since before I was in my first programming class in university. I wrote down a lot of ideas which would turn into potential projects had I put more effort into doing it and writing it down. I've played a bit with RaspberryPis and microcontrollers, built a secondary pc with Linux as an operating system. But I never really put my ideas and projects out there. So I made this github portfolio/blog as means to document the things I think about.
+I've been interested in computers and coding since before I was in my first programming class in university. I wrote down a lot of ideas which would turn into potential projects had I put more effort into doing it and writing it down. I've played a bit with RaspberryPis and microcontrollers, built a secondary pc with Linux as an operating system. But I never really put my ideas and projects out there. So welcome I guess.
 
 ---
 # 🎓📜 Education
-I graduated with a bachelor's degree in physics from the International Islamic University Malaysia (IIUM). In my third year, I took computational physics classes as part of my undergrad's concentration. I did my undergraduate thesis in the field of quantum information where I studied the interaction between a qubit and a spin coherent state varying in their dipole-interaction strength visualised in the Majorana representation. 
+I graduated with a bachelor's degree in physics from the International Islamic University Malaysia (IIUM). In my third year, I took computational physics classes as part of my undergrad's concentration. I did my undergraduate thesis in the field of quantum information where I studied the interaction between a qubit and a spin coherent state varying in their dipole-interaction strength visualised in the Majorana representation.
 
 ---
 # 😸 Now
