@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I've been interested in computers and coding since before I was in my first programming class in university. I wrote down a lot of ideas which would turn into potential projects had I put more effort into doing it and writing it down. I've played a bit with RaspberryPis and microcontrollers, built a secondary pc with Linux as an operating system. But I never really put my ideas and projects out there. So welcome I guess.
+I've been interested in computers and coding since before I was in my first programming class in university. I wrote down a lot of ideas which would turn into potential projects had I put more effort into doing it. I've played a bit with RaspberryPis and microcontrollers, built a secondary pc with Linux as an operating system. But I never really put my ideas and projects out there. So welcome I guess.
 
 ---
 # 🎓📜 Education
@@ -17,5 +17,5 @@ I graduated with a bachelor's degree in physics from the International Islamic U
 # 😸 Now
 Currently I am taking Google's Cybersecurity Professional Certificate course and intend to get a career in cybersecurity. I've been interested in SOC analysts roles.
 
-I plan to publish my writings and my projects here.
+I plan to publish more stuff here.
 
